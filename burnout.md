@@ -33,7 +33,7 @@ As you can see, these include both structural and internal factors, so determini
 best to reserve the term for more serious cases, as some people use it
 when they are simply sick of something.
 
-## Clustered Symptoms ([Kaschka, Korczak, Broich, 2011]())
+## Clustered Symptoms ([Kaschka, Korczak, Broich, 2011](https://www.ncbi.nlm.nih.gov/pubmed/22163259))
 
 * Compulsion to prove oneself
 * Feeling no upper limit to the vigor of which one works 

@@ -1,6 +1,6 @@
 # Flow
 
-Mihaly Csíkszentmihályi is the preeminent researcher on flow. He started by studying musicians and artists to better understand the shared mechanics  
+[Mihaly Csíkszentmihályi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) is the preeminent researcher on flow. He started by studying musicians and artists to better understand the shared mechanics  
 the state that these individuals share.
 
 ## Six Components
