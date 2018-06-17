@@ -40,8 +40,8 @@ when they are simply sick of something.
 * Neglecting personal needs
 * Displacement of conflicts and needs
 * No time for non-work related hobbies/responsibilities
-* Increasing denial of a problem and a decreasing flexibility of thought and behaviour
-* Inner emptiness, anxiety, addictive behaviour
+* Increasing denial of a problem and a decreasing flexibility of thought and behavior
+* Inner emptiness, anxiety, addictive behavior
 * Feelings of meaningless and lack of interest
 * Physical exhaustion
 

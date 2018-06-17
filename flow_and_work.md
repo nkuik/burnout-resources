@@ -2,6 +2,8 @@
 
 Having a definition for flow is useful, but how does one actually facilitate its presence at work? There is no algorithm or manual to suddenly enter flow--as far as we know this isn't the Matrix. However, here is an example of mapping the characteristics of flow to a model of important work.
 
+## Practical tips
+
 ## [Job Characteristics Model](https://en.wikipedia.org/wiki/Job_characteristic_theory) (JCM)
 
 Identifies five characteristics that help induce Critical Psychological States (CPS). These five areas are:

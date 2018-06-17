@@ -18,7 +18,7 @@ It can also be helpful to see all the stages in a graphical representation such 
 
 The most important idea within this model is that we are always passing between stages and that ambivalence is the norm, so it is absolutely fine if we feel a bit conflicted about making the change ("on the one hand I want to reduce distractions, but I'm also worried about missing out on my friends social media posts").
 
-This gives us the freedom to pass off our lack of motivation and somewhat fickle attitudes that accompany behavior change. So we no longer need to judge ourselves when we don't feel like doing something or have an urge repeat an old behavior. Instead we can focus our attention on the things we need to do to make changes.
+This gives us the freedom to pass off our lack of motivation and somewhat fickle attitudes that accompany behavior change. We no longer need to judge ourselves when we don't feel like doing something or have an urge repeat an old behavior. Instead, we can focus our attention on the things we need to do to make changes.
 
 ## [Relapse Prevention](https://en.wikipedia.org/wiki/Relapse_prevention)
 
